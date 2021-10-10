@@ -13,7 +13,7 @@ function DogBreeds () {
         dangerouslySetInnerHTML={{ __html: '\n   [data-custom-class=\'body\'], [data-custom-class=\'body\'] * {\n   background: transparent !important;\n   }\n   [data-custom-class=\'title\'], [data-custom-class=\'title\'] * {\n   font-family: Arial !important;\n   font-size: 26px !important;\n   color: #000000 !important;\n   }\n   [data-custom-class=\'subtitle\'], [data-custom-class=\'subtitle\'] * {\n   font-family: Arial !important;\n   color: #595959 !important;\n   font-size: 14px !important;\n   }\n   [data-custom-class=\'heading_1\'], [data-custom-class=\'heading_1\'] * {\n   font-family: Arial !important;\n   font-size: 19px !important;\n   color: #000000 !important;\n   }\n   [data-custom-class=\'heading_2\'], [data-custom-class=\'heading_2\'] * {\n   font-family: Arial !important;\n   font-size: 17px !important;\n   color: #000000 !important;\n   }\n   [data-custom-class=\'body_text\'], [data-custom-class=\'body_text\'] * {\n   color: #595959 !important;\n   font-size: 14px !important;\n   font-family: Arial !important;\n   }\n   [data-custom-class=\'link\'], [data-custom-class=\'link\'] * {\n   color: #3030F1 !important;\n   font-size: 14px !important;\n   font-family: Arial !important;\n   word-break: break-word !important;\n   }\n' }} />
       <div data-custom-class="body">
         <div><strong><span style={{ fontSize: '26px' }}><span
-          data-custom-class="title">PRIVACY NOTICE</span></span></strong></div>
+          data-custom-class="title">DOG BREEDS</span></span></strong></div>
         <div><br /></div>
         <div>
       <span style={{ color: 'rgb(127, 127, 127)' }}>
